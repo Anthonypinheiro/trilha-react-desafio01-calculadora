@@ -6,7 +6,7 @@ export const ButtonContainer = styled.button`
     background-color: #00AAF0;
     color: #FFFFFF;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 500;
     flex: 1;
     
     &:hover {
